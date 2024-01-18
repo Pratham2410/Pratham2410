@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [React-Portfolio](https://github.com/Aditya-Patel03/Portfolio-V1.0)
 
-- 📫 How to reach me **adityadpatel73@gmail.com**
+- 📫 How to reach me **pratham.prajapati2410@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/pateladitya03](www.linkedin.com/in/pateladitya03)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pratham-prajapati/]([www.linkedin.com/in/pateladitya03](https://www.linkedin.com/in/pratham-prajapati/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
