@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **pratham.prajapati2410@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pratham-prajapati/](https://www.linkedin.com/in/pratham-prajapati/)
+- 📄 Connect with me at [https://www.linkedin.com/in/pratham-prajapati/](https://www.linkedin.com/in/pratham-prajapati/)
 
 - 🌱 I’m pursuing my Bachelor's degree in Science, Majoring in Computing Science with a minor in Mathematics
 
