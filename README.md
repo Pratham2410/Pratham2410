@@ -4,7 +4,7 @@
 -👨🏻‍💻 I’m looking to collaborate on any projects related to Data Science or Database Management
 -🧑🏻‍💼 Currently looking for Summer 2024 Co-Op opportunities
 -😄 Pronouns: He/Him
-<h1 align="center">Hi 👋, I'm Aditya Dharmesh Patel</h1>
+<h1 align="center">Hi 👋, I'm Pratham Prajapati</h1>
 <h3 align="center">Web Developer || A Recent graduate from Seneca</h3>
 
 
