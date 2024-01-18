@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pratham.prajapati2410@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pratham-prajapati/]((https://www.linkedin.com/in/pratham-prajapati/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/pratham-prajapati/](https://www.linkedin.com/in/pratham-prajapati/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
