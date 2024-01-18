@@ -5,7 +5,7 @@
 -🧑🏻‍💼 Currently looking for Summer 2024 Co-Op opportunities
 -😄 Pronouns: He/Him
 <h1 align="center">Hi 👋, I'm Pratham Prajapati</h1>
-<h3 align="center">Web Developer || A Recent graduate from Seneca</h3>
+<h3 align="center">Student at the University of Alberta</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://tenor.com/en-CA/view/programmer-gif-19019116.gif">
